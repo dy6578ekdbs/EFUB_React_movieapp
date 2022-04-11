@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.3cf5c6bc.js",
-    "index.html": "/index.html",
-    "main.3cf5c6bc.js.map": "/static/js/main.3cf5c6bc.js.map"
+    "main.js": "/EFUB_React_movieapp/static/js/main.3cf5c6bc.js",
+    "index.html": "/EFUB_React_movieapp/index.html",
+    "main.3cf5c6bc.js.map": "/EFUB_React_movieapp/static/js/main.3cf5c6bc.js.map"
   },
   "entrypoints": [
     "static/js/main.3cf5c6bc.js"
