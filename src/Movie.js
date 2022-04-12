@@ -4,7 +4,7 @@ import './Movie.css';
 
 class Movie extends Component {
   render() {
-    const { id,title, year,genres,summary,cover_img } = this.props;
+    const { title, year,genres,summary,cover_img } = this.props;
 
     return (
       <div className="movie">
